@@ -9,8 +9,9 @@
 // override bootstrap values, full list of variables:
 // http://getbootstrap.com/customize/#less-variables
 $body-bg: #fff;
-$navbar-default-link-active-bg: rgb(75, 144, 224);
-$navbar-default-link-active-color: rgb(255, 255, 255);
+//$navbar-inverse-bg: rgb(29, 32, 149);
+//$navbar-inverse-link-active-bg: rgb(75, 144, 224);
+//$navbar-inverse-link-active-color: rgb(255, 255, 255);
 
 // import bootstrap
 @import "bootstrap";

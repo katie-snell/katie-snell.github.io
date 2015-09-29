@@ -1,8 +1,5 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">{{ site.title }}</a>
-    </div>
+  <div class="container">
     <div>
       <ul class="nav navbar-nav">
         <!-- make left aligned navigation from pages -->
@@ -33,6 +30,10 @@
           {% endif %}
         {% endfor %}
       </ul>
+
+      <div class="navbar-header navbar-right">
+        <span class="navbar-brand">Welcome to the {{ site.title }}</span>
+      </div>
 
     </div>
   </div>
