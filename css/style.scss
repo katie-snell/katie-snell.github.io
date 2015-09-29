@@ -15,10 +15,6 @@ $navbar-default-link-active-color: rgb(255, 255, 255);
 // import bootstrap
 @import "bootstrap";
 
-// additional css variables for cusotm css
-$footer-height: 60px; // height of the footer
-$footer-height-with-padding: 90px; // height of the footer plus distance to last text
-
 // custom css
 html {
   position: relative;
@@ -27,16 +23,7 @@ html {
 
 body {
   padding-top: $navbar-height;
-  margin-bottom: $footer-height-with-padding;
-}
-
-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  line-height: $footer-height;
-  height: $footer-height;
-  background-color: $gray-lighter;
+  margin-bottom: $navbar-height;
 }
 
 .gap-right {

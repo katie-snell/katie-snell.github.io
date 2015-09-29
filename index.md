@@ -1,6 +1,6 @@
 ---
 layout: default
-menu: Sausage
+menu: News
 icon: home
 align: left
 weight: 1
