@@ -1,0 +1,52 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Notes:
+// for glyphs, check out http://getbootstrap.com/components/
+
+// override bootstrap values, full list of variables:
+// http://getbootstrap.com/customize/#less-variables
+$body-bg: #fff;
+$navbar-default-link-active-bg: rgb(75, 144, 224);
+$navbar-default-link-active-color: rgb(255, 255, 255);
+
+// import bootstrap
+@import "bootstrap";
+
+// additional css variables for cusotm css
+$footer-height: 60px; // height of the footer
+$footer-height-with-padding: 90px; // height of the footer plus distance to last text
+
+// custom css
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  padding-top: $navbar-height;
+  margin-bottom: $footer-height-with-padding;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  line-height: $footer-height;
+  height: $footer-height;
+  background-color: $gray-lighter;
+}
+
+.gap-right {
+  margin-right: 10px;
+}
+
+.gap-left {
+  margin-left: 10px;
+}
+
+.framed {
+  border: 2px solid #000000;
+}
