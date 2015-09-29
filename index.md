@@ -1,6 +1,6 @@
 ---
 layout: default
-menu: Start
+menu: Sausage
 icon: home
 align: left
 weight: 1
