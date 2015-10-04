@@ -16,25 +16,6 @@
         {% endfor %}
       </ul>
 
-      <ul class="nav navbar-nav navbar-right">
-        <!-- make right aligned navigation from pages -->
-        {% assign pages = site.pages | sort:"weight"  %}
-        {% for p in pages %}
-          {% if p.menu and p.align == "right" %}
-            <li {% if p.url == page.url %}class="active"{% endif %}>
-              <a href="{{ p.url }}">
-                {% if p.icon %} <span class="glyphicon glyphicon-{{ p.icon }}"></span> {% endif %}
-                {{ p.menu }}
-              </a>
-            </li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-
-      <div class="navbar-header navbar-right">
-        <span class="navbar-brand">Welcome to the {{ site.title }}</span>
-      </div>
-
     </div>
   </div>
 </nav>

@@ -9,9 +9,12 @@
 // override bootstrap values, full list of variables:
 // http://getbootstrap.com/customize/#less-variables
 $body-bg: #fff;
+$font-size-base:18px;
+$font-size-small:14px;
 //$navbar-inverse-bg: rgb(29, 32, 149);
 //$navbar-inverse-link-active-bg: rgb(75, 144, 224);
 //$navbar-inverse-link-active-color: rgb(255, 255, 255);
+
 
 // import bootstrap
 @import "bootstrap";
@@ -37,4 +40,14 @@ body {
 
 .framed {
   border: 2px solid #000000;
+}
+
+.navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+
+.navbar-nav li {
+  float: none;
+  display: inline-block;
 }

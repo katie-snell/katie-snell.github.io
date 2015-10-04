@@ -32,6 +32,6 @@ d blandit, nunc diam vulputate augue, eu convallis lorem lacus in lacus. Cu\
 rabitur ultricies ultrices diam, vel tincidunt dui rhoncus a. Vivamus at sa\
 pien in turpis consequat pharetra sit amet quis elit.
 
-### Vicky Crystal
+### Vikki Crystal
 
 Hello, my name is Vicky
