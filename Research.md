@@ -7,7 +7,7 @@ weight: 3
 
 note: page currently under construction
 
-### Current research projects and interests
+#### Current research projects and interests
 
 See below for a list of currently funded projects and previous research. If you'd like to learn more about any of these topics, or have ideas that you'd like to collaborate on that seem complimentary, please get in touch!
 
