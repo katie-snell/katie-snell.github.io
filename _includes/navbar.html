@@ -1,7 +1,16 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
-    <div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Snell Lab</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
+
         <!-- make left aligned navigation from pages -->
         {% assign pages = site.pages | sort:"weight"  %}
         {% for p in pages %}

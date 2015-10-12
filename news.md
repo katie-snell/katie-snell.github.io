@@ -1,6 +1,6 @@
 ---
 layout: default
-menu: "Snell lab home"
+menu: "News"
 icon: home
 align: left
 weight: 1

@@ -1,0 +1,44 @@
+---
+layout: plain
+---
+
+<div class="container">
+
+
+<div class="front-page text-center">
+
+    <div class="front-page-title">
+      <h1><a href="index.html">Welcome to the Snell Lab</a></h1>
+      <hr/>
+      <h2>University of Colorado Boulder</h2>
+    </div>
+
+    <div class="btn-group-vertical btn-group-lg" role="group">
+      {% assign pages = site.pages | sort:"weight"  %}
+      {% for p in pages %}
+        {% if p.menu and p.align != "right" %}
+        <a class="btn btn-info front-page-links" href="{{ p.url }}">
+              {{ p.menu }}
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+</div>
+
+
+<div class="text-center">
+  <br/>
+  <a href="http://www.colorado.edu/geolsci/">Department of Geological Sciences</a> |
+  <a href="http://www.colorado.edu/">University of Colorado Boulder</a>
+  <br/>
+  <span class="small">
+    Powered by <a href="https://jekyllrb.com/" target="_new">Jekyll</a> and
+    <a href="http://github.com" target="_new">GitHub</a>,
+    styled with <a href="http://getbootstrap.com/" target="_new">Bootstrap</a>.
+    &copy; Copyright 2015 <a href="mailto:{{ site.email }}">{{ site.owner }}</a>
+  </span>
+</div>
+
+
+</div>

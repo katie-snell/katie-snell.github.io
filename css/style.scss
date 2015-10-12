@@ -15,6 +15,15 @@ $font-size-small:14px;
 //$navbar-inverse-link-active-bg: rgb(75, 144, 224);
 //$navbar-inverse-link-active-color: rgb(255, 255, 255);
 
+// Small screen / tablet
+$container-sm: 720px;
+// Medium screen / desktop
+$container-md: 940px;
+// Large screen / wide desktop
+$container-lg: 1020px;
+
+// for info buttons (especially on front page)
+$brand-info: rgb(123, 165, 244);
 
 // import bootstrap
 @import "bootstrap";
@@ -50,4 +59,42 @@ body {
 .navbar-nav li {
   float: none;
   display: inline-block;
+}
+
+// for front page
+.front-page {
+  background-image: url('../images/allamoore_small.jpg');
+  background-position: center center;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  border: 3px solid #000;
+  border-radius: 6px;
+  box-sizing: border-box;
+  //min-height: 500px !important; // can set minimum height here
+  padding-bottom: 100px; // at least this much padding at the bottom
+}
+
+.front-page-title {
+  width: 100%;
+  margin: 0px;
+  margin-bottom: 80px; // gap below the title
+  padding: 20px; // gap to text
+  border-bottom: 1px solid #000;
+  background:rgba(0, 0, 0,.3); // opacity
+  color: white; // text color
+  a { text-decoration: none; color: inherit; }
+  hr { width: 200px; margin-top: 10px; margin-bottom: 10px; }
+  h1 { margin: 0px; font-size: 44px; font-weight: normal; }
+  h2 { margin: 0px; font-size: 24px; font-weight: normal;
+    color: rgb(213, 213, 213); // text color
+  }
+}
+
+.front-page-links  {
+  background:rgba(0, 0, 0,.7); // set opacity for front page links
+  border-color: white;
 }
