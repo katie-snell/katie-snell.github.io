@@ -10,7 +10,7 @@ weight: 3
 
 Katie's research is broadly focused on the role of climate and tectonics in terrestrial paleoenvironmental change, and how to disentangle those effects from each other in the sedimentary geochemical record. In particular, she is focused on the climatic and tectonic evolution of the western US Cordillera, from 100 Ma to Present. In addition to these geologic applications, she is also interested in diagenesis of carbonate rocks, geochemical processes of modern terrestrial environments and stable isotope method development.
 
-If you'd like to learn more about any of these topics, are interested in collaboration on these topics, or are a student interested in graduate research in these areas, please [get in touch](mailto: kathryn.snell@colorado.edu)!
+If you'd like to learn more about any of these topics, are interested in collaboration on these topics, or are a student interested in graduate research in these areas, please [get in touch](mailto:kathryn.snell@colorado.edu)!
 
 **Current Topics**:
 
