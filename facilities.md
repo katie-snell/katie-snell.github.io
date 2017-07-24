@@ -11,14 +11,14 @@ weight: 4
 
 #### Welcome to the CUBES-SIL!
 
-This new lab facility is currently in the planning/renovation stage. We expect construction to begin in mid-February 2016, and instruments to be delivered in May, 2016. So stay tuned for updates!
+This new lab facility is now operational and accepting new internal and external users. Please stay tuned for updates including formal rates and more details on the instrumentation.
 
-In the meantime, here are some details on the planned facility. Primary instrumentation at the outset will include two magnetic sector, gas source isotope ratio mass spectrometers:
+Primary instrumentation includes two magnetic sector, gas source isotope ratio mass spectrometers:
 
- (1) a Thermo MAT 253+ for high-precision, dual inlet analysis of multiply-substituted (“clumped”) isotopologues of CO<sub>2</sub>.
+ (1) a Thermo MAT 253+ for high-precision, dual inlet analysis of multiply-substituted (“clumped”) isotopologues of CO<sub>2</sub>. We are currently capable of measuring samples as small as ~1.5 - 2 mg of 100% carbonate!
 
- (2) a Thermo Delta V with EA, Gasbench and TCEA for continuous flow analysis of C,H,N,O and S stable isotopes from a range of sample materials.
+ (2) a Thermo Delta V with EA, Gasbench and TCEA for continuous flow analysis of C,H,N,O and S stable isotopes from a range of sample materials. We currently have methods implemented to run carbon and nitrogen isotopes of a range of organic materials, including in sediments as well as carbon and oxygen isotopes of carbonates.
 
-In addition, the facility will house equipment for sample processing including solid sample preparation, and custom-made on-line and off-line vacuum extraction systems.
+In addition, the facility houses equipment for sample processing including solid sample preparation, and custom-made on-line and off-line vacuum extraction systems.
 
-Any questions? Please contact [Katie Snell](mailto:kathryn.snell@colorado.edu) or [Brett Davidheiser-Kroll](mailto:Brett.DavidheiserKroll@Colorado.edu)
+For questions on current rates and availability, please contact [Brett Davidheiser-Kroll](mailto:Brett.DavidheiserKroll@Colorado.edu)
