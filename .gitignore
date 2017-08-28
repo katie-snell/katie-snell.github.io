@@ -1,3 +1,5 @@
 _site
 _ignore
 .sass-cache
+*.sh
+.DS_Store
