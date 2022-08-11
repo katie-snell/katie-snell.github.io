@@ -23,4 +23,4 @@ Primary instrumentation includes three magnetic sector, gas source isotope ratio
 
 In addition, the facility houses equipment for sample processing including solid sample preparation, and custom-made on-line and off-line vacuum extraction systems.
 
-If you are interested in coming to the lab to run samples or sending samples for analysis, please contact [Katie Snell](mailto:kathryn.snell@Colorado.edu)
+If you are interested in coming to the lab to run samples or sending samples for analysis, please contact [Katie Snell](mailto:kathryn.snell@Colorado.edu). Please note that due to the current helium shortage, turn around time for analyses on the Delta and CF-IRMS is longer than usual. Please contact us as early as possible so we can get your samples into the queue.
