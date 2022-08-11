@@ -11,14 +11,16 @@ weight: 4
 
 #### Welcome to the CUBES-SIL!
 
-This new lab facility is now operational and accepting new internal and external users. Please stay tuned for updates including formal rates and more details on the instrumentation.
+This lab facility is was built in 2016, is now a CU Boulder Core facility and accepts samples from both internal (CU Boulder) and external users. Below is a brief summary on the instrumentation in the lab; please see details about current lab rates and approach here, as well as on the Geological Sciences website and the CU Core Facility page.
 
-Primary instrumentation includes two magnetic sector, gas source isotope ratio mass spectrometers:
+Primary instrumentation includes three magnetic sector, gas source isotope ratio mass spectrometers:
 
- (1) a Thermo MAT 253+ for high-precision, dual inlet analysis of multiply-substituted (“clumped”) isotopologues of CO<sub>2</sub>. We are currently capable of measuring samples as small as ~1.5 - 2 mg of 100% carbonate!
+ (1) a Thermo MAT 253+ for high-precision, dual inlet analysis of multiply-substituted (“clumped”) isotopologues of CO<sub>2</sub>. We are currently capable of measuring samples as small as ~4 mg of 100% carbonate in small sample mode and can measure mass 48 in sufficient precision to determine "dual thermometry" from both mass 47 and mass 48 (~10 mg of 10% carbonate required for each analysis).
+ 
+ (2) a Thermo MAT 253+ for continuous flow analysis of carbon and hydrogen isotope ratios of various organic compounds. Overseen by CUBES-SIL co-PI, Sebastian Kopf.
 
- (2) a Thermo Delta V with EA, Gasbench and TCEA for continuous flow analysis of C,H,N,O and S stable isotopes from a range of sample materials. We currently have methods implemented to run carbon and nitrogen isotopes of a range of organic materials, including in sediments as well as carbon and oxygen isotopes of carbonates.
+ (3) a Thermo Delta V with EA, Gasbench and TCEA for continuous flow analysis of C,H,N,O and S stable isotopes from a range of sample materials. We currently have methods implemented to run carbon and nitrogen isotopes of a range of organic materials, including in sediments, carbon and oxygen isotopes of carbonates and DIC, and oxygen isotopes of organic matter and hydrogen isotopes of volcanic glasses on the TCEA.
 
 In addition, the facility houses equipment for sample processing including solid sample preparation, and custom-made on-line and off-line vacuum extraction systems.
 
-For questions on current rates and availability, please contact [Katie Snell](mailto:kathryn.snell@Colorado.edu)
+If you are interested in coming to the lab to run samples or sending samples for analysis, please contact [Katie Snell](mailto:kathryn.snell@Colorado.edu)
