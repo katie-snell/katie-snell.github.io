@@ -1,0 +1,56 @@
+---
+title: "CU Boulder Earth Systems Stable Isotope Lab"
+subtitle: "CUBES-SIL"
+date: "`r format(Sys.Date(), '%d %b %Y')`"
+output:
+  html_document: 
+    df_print: paged # omit to disable paged data table output
+    css: stylesheet.css # omit if no need for custom stylesheet
+    number_sections: no # change to no for unnumbered sections
+    toc: yes # change to no to disable table of contents
+    toc_float: true # change to false to keep toc at the top
+    toc_depth: 4 # change to specify which headings to include in toc
+    code_folding: hide # change to hide to hide code by default
+editor_options:
+  chunk_output_type: inline # change to inline to show output inline
+---
+
+
+```{r echo=FALSE,message=FALSE, warning=FALSE}
+library(tidyverse)
+library(kableExtra)
+```
+
+```{r load image}
+
+```
+
+Located on the main campus of the University of Colorado Boulder in the Geological Sciences Department, the CU Boulder Earth Systems Stable Isotope Laboratory (CUBES-SIL)(PI: Katie Snell) provides services and collaborations with local, national and international researchers and clients.
+
+The CUBES-SIL offers analyses of light stable isotopes in a transparent and reproducible framework. This includes H, C, N, and O in many different sample forms at natural abundances as well as spiked or tracer work. In addition we also do clumped isotope analyses on carbonates. Most analyses are made on a Thermo Scientific Delta V Plus gas source Isotope Ratio Mass Spectrometer (IRMS); clumped isotope analyses are made on a Thermo Scientific 253 Plus Dual Inlet IRMS.
+
+# Philosophy of open data with transparent and reproducible research
+We believe in being open about how we have collected and reduced data from your samples. All of our data reduction is done in R Markdown files, allowing for full documentation of our QA/QC and the math used to determine isotope ratios. Example: https://isoprocessor.isoverse.org/articles/ea_irms_example_carbon.html. This is aided by the use of Isoreader and Isoprocessor (https://www.isoverse.org/). Your final product will include not only isotope values, but also full documentation of their production, and all original mass spec data files.
+
+# Method Development
+We run a research laboratory and are always interested in increasing our analytical capabilities and engaging in interesting problems. Please contact Katie Snell (Clumped DI 253, Delta) or Sebastian Kopf (CF 253) if you have isotope measurement needs that are not listed here.
+
+## Available Analyses
+A sample analysis represent a single analysis of unknown. If replicate analyses of a sample are desired (or required, as is true for clumped isotope analyses; typically 4-5 replicates), multiply prices by the number of replicate analyses per sample.
+```{r,echo=FALSE}
+readxl::read_excel(path =  "PricingAll.xlsx")%>%
+  kable() %>%
+  kable_styling()
+```
+
+Please contact Katie Snell for more information: kathryn.snell@colorado.edu
+
+
+
+
+
+
+
+
+
+
