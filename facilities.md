@@ -11,7 +11,7 @@ weight: 4
 
 #### Welcome to the CUBES-SIL!
 
-This lab facility is was built in 2016, is now a CU Boulder Core facility and accepts samples from both internal (CU Boulder) and external users. Below is a brief summary on the instrumentation in the lab; please see details about current lab rates and approach <a href="websiteCUBESSIL2.html">here</a>, as well as on the <a href="https://www.colorado.edu/geologicalsciences/resources/research-facilities/earth-systems-stable-isotope-laboratory/">Geological Sciences website</a> and the <a href="https://www.colorado.edu/sharedinstrumentation/stable-isotope-mass-spectrometry-facility-rridscr019300">CU Core Facility page</a>.
+This lab facility is was built in 2016, is now a CU Boulder Core facility and accepts samples from both internal (CU Boulder) and external users. Below is a brief summary on the instrumentation in the lab; please see details about current lab rates and approach <a href="websiteCUBESSIL2.Rmd">here</a>, as well as on the <a href="https://www.colorado.edu/geologicalsciences/resources/research-facilities/earth-systems-stable-isotope-laboratory/">Geological Sciences website</a> and the <a href="https://www.colorado.edu/sharedinstrumentation/stable-isotope-mass-spectrometry-facility-rridscr019300">CU Core Facility page</a>.
 
 Primary instrumentation includes three magnetic sector, gas source isotope ratio mass spectrometers:
 
