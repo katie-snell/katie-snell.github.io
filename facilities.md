@@ -21,4 +21,4 @@ Primary instrumentation includes two magnetic sector, gas source isotope ratio m
 
 In addition, the facility houses equipment for sample processing including solid sample preparation, and custom-made on-line and off-line vacuum extraction systems.
 
-For questions on current rates and availability, please contact [Brett Davidheiser-Kroll](mailto:Brett.DavidheiserKroll@Colorado.edu)
+For questions on current rates and availability, please contact [Katie Snell](mailto:kathryn.snell@Colorado.edu)
